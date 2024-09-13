@@ -4,7 +4,7 @@
 
 [Nordic Electrochemistry](https://nordicec.com)
 
-## Reposatories
+## Repositories
 
 [EC4py](https://nordicec.github.io/EC4py) - Python package for data analysis of electrochemical data.
 
