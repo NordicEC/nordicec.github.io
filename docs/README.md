@@ -2,10 +2,10 @@
 
 ## Our main site:
 
-nordicec.github.io
+[Nordic Electrochemistry](https://nordicec.com)
 
 ## Reposatories
 
-[EC4py](EC4py) - Python package for data analysis of electrochemical data.
+[EC4py](https://nordicec.github.io/EC4py) - Python package for data analysis of electrochemical data.
 
-[EC4DAQ](EC4DAQ) - Documentation for EC4 DAQ software
+[EC4DAQ](https://nordicec.github.io/EC4DAQ) - Documentation for EC4 DAQ software
