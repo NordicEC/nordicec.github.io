@@ -1,6 +1,6 @@
 # nordicec.github.io
 
-[nordicec.github.io](nordicec.github.io)
+[nordicec.github.io](http://nordicec.github.io)
 
 [EC4py](EC4py)
 
